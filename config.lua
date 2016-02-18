@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '194147801:AAHiwiBq-00QfABEbI-p7NsKOobrr80lkPM',
 	google_api_key = '',
 	google_cse_key = '',
 	lastfm_api_key = '',
@@ -11,13 +11,12 @@ return {
 	lang = 'en',
 	antisquig = false,
 	cli_port = 4567,
-	admin = 00000000,
+	admin = 157337513,
 	admin_name = 'John Smith',
 	log_chat = nil,
 	about_text = [[
-I am otouto, the plugin-wielding, multi-purpose Telegram bot.
-
-Send /help to get started.
+I am General-Bot.
+My admin : @FarsGeneral.
 ]]	,
 	errors = {
 		connection = 'Connection error.',
@@ -59,9 +58,9 @@ Send /help to get started.
 	},
 	moderation = {
 		admins = {
-			['00000000'] = 'You'
+			['157337513'] = 'You'
 		},
-		admin_group = -00000000,
+		admin_group = -315733751,
 		realm_name = 'My Realm'
 	},
 	plugins = {
